@@ -80,7 +80,4 @@ php artisan serve
 Este proyecto es de uso exclusivo para **BMS Ingeniería de Refrigeración Industrial SAS**.
 Todos los derechos reservados © 2025.
 
-```
 
-¿Quieres que le añada una sección de **contribuyentes**, un **changelog**, o un **roadmap** más detallado?
-```
